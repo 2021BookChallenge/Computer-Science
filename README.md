@@ -2,11 +2,11 @@
 
 ## :memo: Record
 
-### 👩‍💻 Haemin-Park
-:closed_book: [Network](https://github.com/Haemin-Park/CS_TIL/tree/main/Network)
+### 👩‍💻 Haemin Park
+:closed_book: [Network](https://github.com/Haemin-Park/CS_TIL/tree/main/Network) | :closed_book: [OS](https://github.com/Haemin-Park/CS_TIL/tree/main/OS)
 |Week 1|Week 2|Week 3|Week 4|Week 5|Week 6|Week 7|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-||||||||
+|2021.01.19|||||||
 
 ### 👩‍💻 Soyeon Park
 :closed_book: [Network](https://sysgongbu.tistory.com/category/CS/Network)
